@@ -30,6 +30,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal8011727@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bilalbuilds)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@bilalbuilds)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/97431298159 text=Hi%20Bilal%2C%20I%20saw%20your%20GitHub%20profile%20and%20I%20have%20a%20project.)
 ---
 <p align="center">⭐ Have a project in mind? Let's build it together!</p>
